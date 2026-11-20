@@ -4,7 +4,9 @@
 
 ## 章程
 
-- [待结算款项管理与通知规则（修订草案）](settlement.md) — 待审阅
+- [记账章程](bookkeeping/index.md) — 待审阅
+- [预算章程](budgeting/index.md) — 待审阅
+- [结算章程](settlement/index.md) — 待审阅
 
 ## 组织口径
 
